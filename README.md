@@ -1,3 +1,16 @@
+
+**Important Notice:** This repository was originally created and maintained by the NI team in Leuven, Belgium,
+that worked on products in the power electronics portfolio. In late 2025, NI decided to discontinue all power
+electronics products and close the Leuven site by March 1, 2026. As a result, this repository no longer has
+active maintainers.
+
+If you have questions about this repository, please contact members of the
+[PESS Admins team](https://github.com/orgs/ni/teams/pess-admins) on GitHub, as knowledge transfer was completed
+with this group.
+
+
+---
+
 # MeasurementLink™ Support for Python
 
 - [MeasurementLink™ Support for Python](#measurementlink--support-for-python)
